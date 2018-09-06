@@ -1,1 +1,5 @@
-IT Yeah Yeah
+# ITF-Lab 2018
+
+
+## Author
+ตินต์ โตสงวน 61070061
